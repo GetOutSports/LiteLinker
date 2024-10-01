@@ -1,11 +1,12 @@
 const goLinks = {
 	// settings
-	'add': 'https://github.com/MichelGrolet/go/edit/main/go-links.js',
+	'add': 'https://github.com/GetOutSports/LiteLinker/edit/main/index.js',
 	'new': 'add',
 	'edit': 'add',
 	// socials
 	'insta': 'https://www.instagram.com/mi.grlt/',
-    'instagram': 'insta',
+	'engineering-fte-notes': 'https://docs.google.com/document/d/1IfcSZ0mmEuGtT4KDtmK0vrPJ5sEQniERG01yIteAKU8/edit?usp=sharing',
+    	'instagram': 'insta',
 	'linkedin': 'https://www.linkedin.com/in/michelgrolet/',
 	'ln': 'linkedin',
 	'bc': 'https://www.getout.sport/',
