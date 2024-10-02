@@ -10,6 +10,7 @@ const goLinks = {
 	'linkedin': 'https://www.linkedin.com/in/michelgrolet/',
 	'ln': 'linkedin',
 	'bc': 'https://www.getout.sport/',
+	'dashboard': 'https://sites.google.com/getout.sport/portal/home',
 };
 
 function redirect() {
