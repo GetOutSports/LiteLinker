@@ -3,14 +3,25 @@ const goLinks = {
 	'add': 'https://github.com/GetOutSports/LiteLinker/edit/main/index.js',
 	'new': 'add',
 	'edit': 'add',
+	// business card
+	'bc': 'https://www.getout.sport',
 	// socials
-	'insta': 'https://www.instagram.com/mi.grlt/',
-	'engineering-fte-notes': 'https://docs.google.com/document/d/1IfcSZ0mmEuGtT4KDtmK0vrPJ5sEQniERG01yIteAKU8/edit?usp=sharing',
-    	'instagram': 'insta',
-	'linkedin': 'https://www.linkedin.com/in/michelgrolet/',
+	'tiktok': 'https://www.tiktok.com/@getoutinc',
+	'instagram': 'https://www.instagram.com/getoutsport',
+	'insta': 'instagram',
+	'facebook': 'https://www.facebook.com/profile.php?id=61560842553066',
+	'fb': 'facebook',
+	'linkedin': 'https://www.linkedin.com/company/103807276',
 	'ln': 'linkedin',
-	'bc': 'https://www.getout.sport/',
+	// socials
+	'engineering-fte-notes': 'https://docs.google.com/document/d/1IfcSZ0mmEuGtT4KDtmK0vrPJ5sEQniERG01yIteAKU8/edit?usp=sharing',
 	'dashboard': 'https://sites.google.com/getout.sport/portal/home',
+	'youtube': 'https://www.youtube.com/@GetOutSport',
+	'yt': 'youtube',
+	'x': 'https://x.com/GetOutsport',
+	'twitter': 'x',
+	'': '',
+	'': '',
 };
 
 function redirect() {
