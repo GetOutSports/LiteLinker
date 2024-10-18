@@ -20,6 +20,7 @@ const goLinks = {
 	// internal
 	'engineering-fte-notes': 'https://docs.google.com/document/d/1IfcSZ0mmEuGtT4KDtmK0vrPJ5sEQniERG01yIteAKU8/edit?usp=sharing',
 	'dashboard': 'https://sites.google.com/getout.sport/portal/home',
+	'jira': 'https://getout-sports.atlassian.net/jira/software/c/projects/GO/boards/8',
 	// misc
 	'': '',
 	'': '',
