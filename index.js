@@ -3,8 +3,9 @@ const goLinks = {
 	'add': 'https://github.com/GetOutSports/LiteLinker/edit/main/index.js',
 		'new': 'add',
 		'edit': 'add',
-	// business card
+	// business
 	'bc': 'https://www.getout.sport',
+	'write-a-review', 'https://g.page/r/CcxuwieS9tjcEBM/review',
 	// socials
 	'tiktok': 'https://www.tiktok.com/@getoutinc',
 	'instagram': 'https://www.instagram.com/getoutsport',
