@@ -29,7 +29,7 @@ const goLinks = {
 };
 
 function redirect() {
-    const basePath = 'go'; // repository name
+    const basePath = 'LiteLinker'; // repository name
     let path = window.location.pathname.substr(1); // get the part after the initial slash
 
     if (path === 'links') return; // Prevent redirect on /links
@@ -42,7 +42,7 @@ function redirect() {
     if (redirectURL) {
         window.location.href = redirectURL;
     } else {
-        window.location.href = `https://getout.sport/404`;
+        window.location.href = `https://www.getout.sport/coming-soon`;
     }
 }
 
