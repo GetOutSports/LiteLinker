@@ -5,7 +5,7 @@ const goLinks = {
 		'edit': 'add',
 	// business
 	'bc': 'https://www.getout.sport/coming-soon',
-	'write-a-review', 'https://g.page/r/CcxuwieS9tjcEBM/review',
+	'write-a-review': 'https://g.page/r/CcxuwieS9tjcEBM/review',
 		'review': 'write-a-review',
 	// socials
 	'tiktok': 'https://www.tiktok.com/@getoutinc',
